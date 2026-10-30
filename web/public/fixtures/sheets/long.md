@@ -1,0 +1,65 @@
+# Harbor Release 1.4 - changelog and payout shares
+
+- Change 1: the team reworked module 1 and updated its documentation and tests.
+- Change 2: the team reworked module 2 and updated its documentation and tests.
+- Change 3: the team reworked module 3 and updated its documentation and tests.
+- Change 4: the team reworked module 4 and updated its documentation and tests.
+- Change 5: the team reworked module 5 and updated its documentation and tests.
+- Change 6: the team reworked module 6 and updated its documentation and tests.
+- Change 7: the team reworked module 7 and updated its documentation and tests.
+- Change 8: the team reworked module 8 and updated its documentation and tests.
+- Change 9: the team reworked module 9 and updated its documentation and tests.
+- Change 10: the team reworked module 10 and updated its documentation and tests.
+- Change 11: the team reworked module 11 and updated its documentation and tests.
+- Change 12: the team reworked module 12 and updated its documentation and tests.
+- Change 13: the team reworked module 13 and updated its documentation and tests.
+- Change 14: the team reworked module 14 and updated its documentation and tests.
+- Change 15: the team reworked module 15 and updated its documentation and tests.
+- Change 16: the team reworked module 16 and updated its documentation and tests.
+- Change 17: the team reworked module 17 and updated its documentation and tests.
+- Change 18: the team reworked module 18 and updated its documentation and tests.
+- Change 19: the team reworked module 19 and updated its documentation and tests.
+- Change 20: the team reworked module 20 and updated its documentation and tests.
+- Change 21: the team reworked module 21 and updated its documentation and tests.
+- Change 22: the team reworked module 22 and updated its documentation and tests.
+- Change 23: the team reworked module 23 and updated its documentation and tests.
+- Change 24: the team reworked module 24 and updated its documentation and tests.
+- Change 25: the team reworked module 25 and updated its documentation and tests.
+- Change 26: the team reworked module 26 and updated its documentation and tests.
+- Change 27: the team reworked module 27 and updated its documentation and tests.
+- Change 28: the team reworked module 28 and updated its documentation and tests.
+- Change 29: the team reworked module 29 and updated its documentation and tests.
+- Change 30: the team reworked module 30 and updated its documentation and tests.
+- Change 31: the team reworked module 31 and updated its documentation and tests.
+- Change 32: the team reworked module 32 and updated its documentation and tests.
+- Change 33: the team reworked module 33 and updated its documentation and tests.
+- Change 34: the team reworked module 34 and updated its documentation and tests.
+- Change 35: the team reworked module 35 and updated its documentation and tests.
+- Change 36: the team reworked module 36 and updated its documentation and tests.
+- Change 37: the team reworked module 37 and updated its documentation and tests.
+- Change 38: the team reworked module 38 and updated its documentation and tests.
+- Change 39: the team reworked module 39 and updated its documentation and tests.
+- Change 40: the team reworked module 40 and updated its documentation and tests.
+- Change 41: the team reworked module 41 and updated its documentation and tests.
+- Change 42: the team reworked module 42 and updated its documentation and tests.
+- Change 43: the team reworked module 43 and updated its documentation and tests.
+- Change 44: the team reworked module 44 and updated its documentation and tests.
+- Change 45: the team reworked module 45 and updated its documentation and tests.
+- Change 46: the team reworked module 46 and updated its documentation and tests.
+- Change 47: the team reworked module 47 and updated its documentation and tests.
+- Change 48: the team reworked module 48 and updated its documentation and tests.
+- Change 49: the team reworked module 49 and updated its documentation and tests.
+- Change 50: the team reworked module 50 and updated its documentation and tests.
+- Change 51: the team reworked module 51 and updated its documentation and tests.
+- Change 52: the team reworked module 52 and updated its documentation and tests.
+- Change 53: the team reworked module 53 and updated its documentation and tests.
+- Change 54: the team reworked module 54 and updated its documentation and tests.
+- Change 55: the team reworked module 55 and updated its documentation and tests.
+- Change 56: the team reworked module 56 and updated its documentation and tests.
+- Change 57: the team reworked module 57 and updated its documentation and tests.
+- Change 58: the team reworked module 58 and updated its documentation and tests.
+- Change 59: the team reworked module 59 and updated its documentation and tests.
+
+| Contributor | Wallet | Share |
+|---|---|---|
+| Ada Lovelace | 0xDfB9eA20f2f8aBd707e702DBfae8FA8F6a8c6d36 | 100% |
