@@ -1,6 +1,6 @@
 /** Live SplitSheet deploy on GenLayer Studio Dev (chain 61997). Override via env. */
 export const CONTRACT_ADDRESS = (process.env.NEXT_PUBLIC_SPLITSHEET_ADDRESS ||
-  "0x7D4d47a34f29409617bd08dAc7818eE22fFC349E") as `0x${string}`;
+  "0xe345d6BcD44bA3B0b125828F64ebd39A95661c46") as `0x${string}`;
 
 /** Studio Dev / Studio Next — chain ID 61997. */
 export const CHAIN_ID = 61997;

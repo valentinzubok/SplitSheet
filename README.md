@@ -69,7 +69,7 @@ the frozen text in the console before the money is touched; it is exactly what w
 |---|---|
 | Console | **https://valentinzubok.github.io/SplitSheet/** (reads work with no wallet) |
 | Network | GenLayer Studio Dev / Studio Next — chain `61997` |
-| Contract | [`0x7D4d47a34f29409617bd08dAc7818eE22fFC349E`](https://explorer-studio-dev.genlayer.com/address/0x7D4d47a34f29409617bd08dAc7818eE22fFC349E) — CI checks the deployed code equals [`contracts/SplitSheet.py`](contracts/SplitSheet.py) |
+| Contract | [`0xe345d6BcD44bA3B0b125828F64ebd39A95661c46`](https://explorer-studio-dev.genlayer.com/address/0xe345d6BcD44bA3B0b125828F64ebd39A95661c46) — CI checks the deployed code equals [`contracts/SplitSheet.py`](contracts/SplitSheet.py) |
 | Deploy record | [`STUDIO_DEV_DEPLOY.md`](STUDIO_DEV_DEPLOY.md) — every transaction of the demo, including the refused ones |
 
 ## Demo sheet pages

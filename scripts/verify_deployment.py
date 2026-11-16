@@ -9,7 +9,7 @@ import sys
 import urllib.request
 
 RPC = "https://studio-dev.genlayer.com/api"
-ADDRESS = "0x7D4d47a34f29409617bd08dAc7818eE22fFC349E"
+ADDRESS = "0xe345d6BcD44bA3B0b125828F64ebd39A95661c46"
 SOURCE = pathlib.Path(__file__).resolve().parents[1] / "contracts" / "SplitSheet.py"
 
 
